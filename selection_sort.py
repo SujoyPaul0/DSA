@@ -15,7 +15,11 @@ def prefix_max(A, i):                       # S(i)
     return i                                # O(1)
  
  
+
  '''
+=======
+'''
+
  # prefix_max analysis: Recurrence tree
  # chain of n nodes with Θ(1) work per node, 
  # Summation of (1) from i = 0 to n - 1 = Θ(1)
@@ -29,7 +33,11 @@ def prefix_max(A, i):                       # S(i)
  
  '''
  
+
  '''
+=======
+'''
+
 Example
 
 Let's go through an example with the list `[3, 1, 4, 1, 5, 9, 2, 6, 5]`.
